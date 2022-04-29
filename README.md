@@ -3,7 +3,6 @@ Hospital management system project
 
 Through it, you can 
 
-
 1-Write records.
 
 2-Read and display all records.
@@ -15,5 +14,7 @@ Through it, you can
 5-Delete a specific record.
 
 **And all this in an organized way with the effect of colors to give a good feel to the user**
+
+
 **written by : Ali Nour 
 
